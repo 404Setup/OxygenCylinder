@@ -1,0 +1,13 @@
+name: OxygenCylinder
+version: '${version}'
+main: one.tranic.oxygen.OxygenCylinder
+api-version: '1.16.5'
+prefix: OxygenCylinder
+load: STARTUP
+authors: [404]
+description: Allows players to breathe in empty glass bottles under water for more oxygen.
+
+permissions:
+  tranic.oxygen:
+    description: Allows /oxygen-reload reload
+    default: op
