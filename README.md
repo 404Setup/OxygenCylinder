@@ -1,4 +1,6 @@
 # OxygenCylinder
+Use the bottle to increase oxygen underwater.
+
 This plugin is an unofficial port of the Mod "Botted Air".
 
 ## Usage
